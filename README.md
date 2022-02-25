@@ -1,2 +1,2 @@
-# patika-react-odev-1
+# Patika React Ödev 1
 -React Ödev 1
